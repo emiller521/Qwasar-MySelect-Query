@@ -5,25 +5,25 @@ Your constructor will receive a CSV content ****(AS A STRING)****, first line wi
 It will be prototyped:
 
 
-****CONSTRUCTOR(CSV_CONTENT)****
+-> ****CONSTRUCTOR(CSV_CONTENT)****
 
 
-Implement a where method which will take 2 arguments: ****COLUMN_NAME**** and ****VALUE****.
+Implement a where method which will take 2 arguments: -> ****COLUMN_NAME**** and -> ****VALUE****.
 
 
-****It will return an array of strings which matches the value.
+-> ****It will return an array of strings which matches the value.
 
 
 It will be prototyped:
 
-****WHERE(COLUMN_NAME, CRITERIA)****
+-> ****WHERE(COLUMN_NAME, CRITERIA)****
 
 
 Our examples will use these CSV:
 
-****NBA PLAYER****
+-> ****NBA PLAYER****
 
-****NBA PLAYER'S DATA****
+-> ****NBA PLAYER'S DATA****
 
-****NBA SEASON STATS****
+-> ****NBA SEASON STATS****
 
