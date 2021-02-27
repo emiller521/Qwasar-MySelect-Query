@@ -19,8 +19,6 @@ It will be prototyped:
 Our examples will use these CSV:
 
 ****Nba Player
-
 ****Nba Player's Data
-
 ****Nba Seasons Stats
 
