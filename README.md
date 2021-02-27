@@ -8,7 +8,8 @@ It will be prototyped:
 ****CONSTRUCTOR(csv_content);
 
 
-Implement a where method which will take 2 arguments: ****COLUMN_NAME**** and ****VALUE****. It will return an array of strings which matches the value.
+Implement a where method which will take 2 arguments: ****COLUMN_NAME**** and ****VALUE****.
+It will return an array of strings which matches the value.
 
 
 It will be prototyped:
