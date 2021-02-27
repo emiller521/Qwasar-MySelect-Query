@@ -5,7 +5,7 @@ Your constructor will receive a CSV content (as a string), first line will be th
 It will be prototyped:
 
 
-****CONSTRUCTOR(csv_content)
+****CONSTRUCTOR(csv_content);
 
 
 Implement a where method which will take 2 arguments: column_name and value. It will return an array of strings which matches the value.
@@ -13,12 +13,14 @@ Implement a where method which will take 2 arguments: column_name and value. It 
 
 It will be prototyped:
 
-****WHERE(column_name, criteria)
+****WHERE(column_name, criteria);
 
 
 Our examples will use these CSV:
 
 ****Nba Player
+
 ****Nba Player's Data
+
 ****Nba Seasons Stats
 
