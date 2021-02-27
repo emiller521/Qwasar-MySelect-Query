@@ -8,10 +8,10 @@ It will be prototyped:
 -> ****CONSTRUCTOR(CSV_CONTENT)****
 
 
-Implement a where method which will take 2 arguments: -> ****COLUMN_NAME**** and -> ****VALUE****.
+Implement a where method which will take 2 arguments: ****COLUMN_NAME**** and ****VALUE****.
 
 
--> ****It will return an array of strings which matches the value.
+-> ****It will return an array of strings which matches the value.****
 
 
 It will be prototyped:
